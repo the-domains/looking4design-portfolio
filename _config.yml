@@ -1,4 +1,3 @@
-layout_spectrum: 0.6091874898411334
 typography_spectrum: 0.5242205155082047
 color:
   brandStrength: 0.7766368899028748
@@ -11,5 +10,17 @@ color:
     - '#EFC94C'
     - '#E27A3F'
     - '#DF5A49'
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/507af957-6623-4936-a964-e5f2cc78bafb.png
+layout_spectrum: 0.6091874898411334
+author:
+  name: Anthea
+  email: info@huntergraphicdesign.com.au
+  url: huntergraphicdesign.com.au
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5efd5e0-11ec-40fa-bfeb-16646cdc7750.png
 name: looking4.design portfolio
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c1add5d-c0cd-4f92-85f6-8be68ead3285.png
 description: TURNING IDEAS INTO VISUALS
